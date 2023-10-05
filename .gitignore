@@ -1,0 +1,6 @@
+#Pycharm specific
+*.idea
+__pycache__/
+test/
+pic/
+weights/face.pt
