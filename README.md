@@ -28,7 +28,7 @@
 ![Alt text](data/image.png)  
 (2) 制作需要截取人脸的文件夹，注意文件夹的结构如下图所示，根文件夹中放入子文件夹，各个子文件夹中放入需要截取人脸的图片  
 ![Alt text](data/image-2.png)  
-(3) 修改代码中根文件夹的路径，默认保存在相同文件夹下，并自动替换原图片，因此请注意将原数据集备份
+(3) 修改代码中根文件夹的路径，默认保存在相同文件夹下，并自动替换原图片，因此请注意将原数据集备份  
 ![Alt text](data/image-1.png)
 ### Inferences 
 https://github.com/ultralytics/yolov5 
